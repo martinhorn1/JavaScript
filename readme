@@ -1,1 +1,6 @@
-
+Programm genereerib suvalise täisarvu vahemikus 1-100.
+Kasutaja sisestab numbri.
+Programm annab teada, kas pakutud number on suurem või väiksem kui tema poolt genereeritud number. Pakutud number salvestatakse ning
+näidatakse kõiki seni pakutud numbreid.
+Kui number arvatakse ära viie või vähema korraga, on mäng võidetud.
+Vastasel juhul on mäng kaotatud.
